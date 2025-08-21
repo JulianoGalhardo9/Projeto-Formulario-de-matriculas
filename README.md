@@ -25,11 +25,3 @@ Redução de burocracia e tempo gasto em processos manuais.
 Acesso simplificado para pais e responsáveis.
 Melhor organização dos cadastros pela escola.
 Base escalável para evoluir em direção a um sistema completo de gestão escolar.
-
-🔖 Layout
-
-Você pode visualizar o layout do projeto através DESSE LINK. É necessário ter conta no Figma para acessá-lo.
-
-📝 Licença
-
-Esse projeto está sob a licença MIT.
