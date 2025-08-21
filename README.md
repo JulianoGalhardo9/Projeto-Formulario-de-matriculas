@@ -5,6 +5,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 HTML e CSS
 Git e Github
 Figma
+
 💻 Projeto
 
 O projeto consiste no desenvolvimento de um sistema web de matrícula online, voltado para instituições de ensino infantil. O objetivo é facilitar o processo de inscrição de alunos, oferecendo uma plataforma intuitiva, responsiva e segura, que substitui o processo manual em papel.
